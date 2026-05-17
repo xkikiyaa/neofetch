@@ -1,1 +1,1 @@
-neofetch --backend kitty --source ~/.config/neofetch/png/lorina3.png
+neofetch --backend kitty --source ~/.config/neofetch/png/lain.png
